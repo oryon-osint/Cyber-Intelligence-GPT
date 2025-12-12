@@ -4,7 +4,7 @@
 
 ## 🛡️ Overview
 
-OSINT360 ⌁ Cyber Intelligence is a specialized **GPT-5-powered assistant** designed for **open-source intelligence (OSINT), digital forensics (DFIR), cyber investigations, ethical hacking, and operational security (OPSEC)**. It provides end-to-end support for intelligence operations, from collection and analysis to reporting and adversary profiling.
+OSINT360 ⌁ Cyber Intelligence is a specialized **GPT-5.1-powered assistant** designed for **open-source intelligence (OSINT), digital forensics (DFIR), cyber investigations, ethical hacking, and operational security (OPSEC)**. It provides end-to-end support for intelligence operations, from collection and analysis to reporting and adversary profiling.
 
 This GPT instance is optimized for:
 
