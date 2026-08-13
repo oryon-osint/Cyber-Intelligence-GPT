@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <div align="center">
-  <h1>OSINT360 ⌁ Cyber Intelligence GPT</h1>
+  <h1>Cyber Intelligence GPT</h1>
   <p>A custom GPT for OSINT, DFIR, cyber investigations, threat intelligence, OPSEC, privacy, AI security, and compliance.</p>
   <p>
     <a href="https://chatgpt.com/g/g-65xhTBjZu-cyber-intelligence-gpt"><img alt="Launch Cyber Intelligence GPT" src="https://img.shields.io/badge/launch-Cyber_Intelligence_GPT-10a37f?style=flat-square&logo=openai&logoColor=white"></a>
